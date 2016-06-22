@@ -7,3 +7,14 @@ Positive elevation
 
 Negative elevation
 ![Screenshot](http://i.imgur.com/gUxGX7V.png)
+
+
+### Installation
+1. Navigate to `chrome://extensions` in your browser (or open up the Chrome menu by clicking the icon to the far right of the window, and select **Extensions** under the **Tools** menu to get to the same place).
+2. Ensure that the **Developer mode** checkbox in the top right-hand corner is checked.
+3. Click **Load unpacked extension…** to pop up a file-selection dialog.
+4. Navigate to the directory containing the files from this repository, and select it.
+
+Alternatively, you can drag and drop the directory containing the files from this repository onto `chrome://extensions` in your browser to load it.
+
+*Instructions from [here](https://developer.chrome.com/extensions/getstarted#unpacked).*
