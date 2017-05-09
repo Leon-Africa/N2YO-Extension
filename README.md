@@ -18,6 +18,3 @@ Negative elevation
 Alternatively, you can drag and drop the directory containing the files from this repository onto `chrome://extensions` in your browser to load it.
 
 *Instructions from [here](https://developer.chrome.com/extensions/getstarted#unpacked).*
-
-
-[Reddit thread](https://www.reddit.com/r/RTLSDR/comments/4par68/simple_chrome_extension_i_made_for_n2yocom/)
